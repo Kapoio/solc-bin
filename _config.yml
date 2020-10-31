@@ -6,3 +6,5 @@ exclude:
   - linux-amd64
   - macosx-amd64
   - windows-amd64
+  - wasm
+  
